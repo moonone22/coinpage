@@ -181,7 +181,7 @@ const money = Math.imul(
                     : (
                         <>
                         <Home>
-                          <Link to="/">
+                          <Link to="/coinpage">
                             <BiArrowToLeft />
                           </Link>
                         </Home>
